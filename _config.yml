@@ -21,7 +21,7 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Fizzy Blog # the main title
+title: The SkyGuy Blog # the main title
 
 tagline: A place for me to write about my many adventures working on Dynamics and other projects! # it will display as the sub-title
 
